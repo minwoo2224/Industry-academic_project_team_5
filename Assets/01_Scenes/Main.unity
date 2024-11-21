@@ -550,7 +550,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startPosition: {x: 0, y: 0, z: 0}
   nextPosition: {x: 0, y: 0, z: 0}
-  buttonCount: 0
 --- !u!1 &367063454
 GameObject:
   m_ObjectHideFlags: 0
@@ -821,7 +820,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startPosition: {x: 0, y: 0, z: 0}
   nextPosition: {x: 0, y: 0, z: 0}
-  buttonCount: 0
 --- !u!1 &473580302
 GameObject:
   m_ObjectHideFlags: 0
@@ -1559,7 +1557,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startPosition: {x: 0, y: 0, z: 0}
   nextPosition: {x: 0, y: 0, z: 0}
-  buttonCount: 0
 --- !u!1 &1530784309
 GameObject:
   m_ObjectHideFlags: 0
@@ -1764,7 +1761,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startPosition: {x: 0, y: 0, z: 0}
   nextPosition: {x: 0, y: 0, z: 0}
-  buttonCount: 0
 --- !u!1 &1768029173
 GameObject:
   m_ObjectHideFlags: 0
