@@ -45,7 +45,8 @@ public class PlayerMovement : MonoBehaviour
         // Animator 파라미터 제어
         if (hasIsRunningParam)
         {
-            animator.SetBool(IsRunningParam, movement.x != 0); // 움직임 여부로 애니메이션 전환
+            animator.SetBool(IsRunningParam, movement.x != 0);
+            animator.Update(0);// 움직임 여부로 애니메이션 전환
         }
         // 캐릭터 방향 전환
         if (movement.x > 0) // 오른쪽 이동
